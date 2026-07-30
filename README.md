@@ -36,10 +36,10 @@ TP-Procesamiento-Contrasenas/
 🚀 Cómo Ejecutarlo
 
 1. Clonar el repositorio:
-   git clone https://github.com/GastonCe/TP-Procesamiento-Contrasenas.git
+   git clone https://github.com/GastonCe/procesamiento-contrasenas-python.git
 
 2. Navegar a la carpeta del proyecto:
-   cd TP-Procesamiento-Contrasenas
+   cd procesamiento-contrasenas-python
 
 3. Ejecutar el script principal:
    python main.py

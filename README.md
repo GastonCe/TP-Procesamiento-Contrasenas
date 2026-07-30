@@ -46,5 +46,5 @@ TP-Procesamiento-Contrasenas/
 
 💻 Tecnologías Utilizadas
 
-  **Lenguaje:** Python 3.x
-  **Conceptos:** Modularización, Algoritmo de Ordenamiento por Burbuja, Código ASCII, Validaciones.
+ * **Lenguaje:** Python 3.x
+ * **Conceptos:** Modularización, Algoritmo de Ordenamiento por Burbuja, Código ASCII, Validaciones.
